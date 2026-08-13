@@ -30,7 +30,6 @@ COMMON_PASSWORDS = {
 
 KEYBOARD_ROWS = ["qwertyuiop", "asdfghjkl", "zxcvbnm", "1234567890"]
 
-
 @dataclass
 class PasswordReport:
     password_length: int
