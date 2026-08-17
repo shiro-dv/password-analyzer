@@ -11,7 +11,6 @@ Usage:
     python password_analyzer.py --generate 16
     python password_analyzer.py --interactive
 """
-
 import argparse
 import math
 import re
